@@ -1,9 +1,27 @@
 
 
-# 💫 About Me:
- - 🔭 I’m currently working on: Building responsive and interactive web applications using HTML, CSS, and JavaScript<br>- 🌱 I’m currently learning: Java Full Stack (Spring Boot, APIs) + DSA in C++  <br>- 👯 I’m looking to collaborate on: Web development & real-world projects (AgriTech / Student Platforms)  <br>- 🤔 I’m looking for help with: Backend architecture & scalable system design  <br>- 💬 Ask me about: HTML, CSS, JavaScript,  Core Java, C++, SQL, DSA basics  <br>- 📫  <br>- ⚡ Fun fact: I love building practical projects that solve real-world problems 🌱  
+Hi, I'm Nagesh Kalse
 
+🎓 Computer Science & Design Engineering Student | 2027 Batch
+💻 Aspiring Java Full Stack Developer | Problem Solver
 
+🚀 About Me
+
+🔭 Currently working on: Building practical web applications and improving my development skills.
+
+🌱 Currently learning: Java Full Stack Development, Spring Boot, REST APIs, and Data Structures & Algorithms using C++.
+
+🎯 Currently focused on: Placement preparation, DSA problem-solving, and strengthening core computer science fundamentals.
+
+👯 Looking to collaborate on: Web development, AgriTech, and real-world software projects.
+
+🤝 Looking to improve: Backend development, database design, and scalable system architecture.
+
+💬 Ask me about: HTML, CSS, JavaScript, Core Java, C++, SQL, and DSA fundamentals.
+
+🌱 Interested in: Building technology that solves practical problems, especially in agriculture and education.
+
+⚡ Fun fact: I believe consistent progress and building real projects are the keys to becoming a better developer.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagesh-kalse) 
 
