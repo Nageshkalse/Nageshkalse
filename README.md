@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
- - 🔭 I’m currently working on: Building responsive and interactive web applications using HTML, CSS, and JavaScript<br>- 🌱 I’m currently learning: Java Full Stack (Spring Boot, APIs) + DSA in C++  <br>- 👯 I’m looking to collaborate on: Web development & real-world projects (AgriTech / Student Platforms)  <br>- 🤔 I’m looking for help with: Backend architecture & scalable system design  <br>- 💬 Ask me about: HTML, CSS, JavaScript,  Core Java, C++, SQL, DSA basics  <br>- 📫 How to reach me: [Add your LinkedIn/Gmail here]  <br>- ⚡ Fun fact: I love building practical projects that solve real-world problems 🌱  
+ - 🔭 I’m currently working on: Building responsive and interactive web applications using HTML, CSS, and JavaScript<br>- 🌱 I’m currently learning: Java Full Stack (Spring Boot, APIs) + DSA in C++  <br>- 👯 I’m looking to collaborate on: Web development & real-world projects (AgriTech / Student Platforms)  <br>- 🤔 I’m looking for help with: Backend architecture & scalable system design  <br>- 💬 Ask me about: HTML, CSS, JavaScript,  Core Java, C++, SQL, DSA basics  <br>- 📫  <br>- ⚡ Fun fact: I love building practical projects that solve real-world problems 🌱  
 
 
 ## 🌐 Socials:
